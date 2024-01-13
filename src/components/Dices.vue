@@ -70,7 +70,7 @@ export default {
   -webkit-transform: translateZ(60px);
   -ms-transform: translateZ(60px);
   transform: translateZ(60px);
-  background-image: url('/public/assets/dice-1.png');
+  background-image: url('../assets/dice-1.png');
   background-position: center;
   background-size: cover;
 }
@@ -78,7 +78,7 @@ export default {
   -webkit-transform: rotateY(90deg) translateZ(60px);
   -ms-transform: rotateY(90deg) translateZ(60px);
   transform: rotateY(90deg) translateZ(60px);
-  background-image: url('/public/assets/dice-2.png');
+  background-image: url('../assets/dice-2.png');
   background-position: center;
   background-size: cover;
 }
@@ -86,7 +86,7 @@ export default {
   -webkit-transform: rotateY(90deg) rotateX(90deg) translateZ(60px);
   -ms-transform: rotateY(90deg) rotateX(90deg) translateZ(60px);
   transform: rotateY(90deg) rotateX(90deg) translateZ(60px);
-  background-image: url('/public/assets/dice-3.png');
+  background-image: url('../assets/dice-3.png');
   background-position: center;
   background-size: cover;
 }
@@ -94,7 +94,7 @@ export default {
   -webkit-transform: rotateY(180deg) rotateZ(90deg) translateZ(60px);
   -ms-transform: rotateY(180deg) rotateZ(90deg) translateZ(60px);
   transform: rotateY(180deg) rotateZ(90deg) translateZ(60px);
-  background-image: url('/public/assets/dice-4.png');
+  background-image: url('../assets/dice-4.png');
   background-position: center;
   background-size: cover;
 }
@@ -102,7 +102,7 @@ export default {
   -webkit-transform: rotateY(-90deg) rotateZ(90deg) translateZ(60px);
   -ms-transform: rotateY(-90deg) rotateZ(90deg) translateZ(60px);
   transform: rotateY(-90deg) rotateZ(90deg) translateZ(60px);
-  background-image: url('/public/assets/dice-5.png');
+  background-image: url('../assets/dice-5.png');
   background-position: center;
   background-size: cover;
 }
@@ -110,7 +110,7 @@ export default {
   -webkit-transform: rotateX(-90deg) translateZ(60px);
   -ms-transform: rotateX(-90deg) translateZ(60px);
   transform: rotateX(-90deg) translateZ(60px);
-  background-image: url('/public/assets/dice-6.png');
+  background-image: url('../assets/dice-6.png');
   background-position: center;
   background-size: cover;
 }

@@ -134,7 +134,7 @@ export default {
 }
 
 body {
-  background-image: linear-gradient(rgba(62, 20, 20, 0.4), rgba(62, 20, 20, 0.4)), url(/public/assets/back.jpg);
+  background-image: linear-gradient(rgba(62, 20, 20, 0.4), rgba(62, 20, 20, 0.4)), url(assets/back.jpg);
   background-size: cover;
   background-position: center;
   font-family: Lato;
